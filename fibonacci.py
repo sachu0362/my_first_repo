@@ -38,3 +38,4 @@ def fib(terms):
 
 for i in fib(20):
     print(i)
+    print("Printing next number")
